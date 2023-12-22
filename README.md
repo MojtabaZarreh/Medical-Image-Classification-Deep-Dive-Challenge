@@ -5,6 +5,7 @@
 
 
 This notebook is the 17th data science talk and the 7th Deep Dive challenge and event.
+https://icds.ai/event/17th-mds-7th-deep-dive
 This project is a classification task for different types of medical images that I did with two different models including ResNetV2.
 
 
