@@ -25,5 +25,5 @@ Solving this classification task holds significant potential in various medical 
 
 3. Research and Development: Robust classification models can support researchers in analyzing large volumes of medical images. By automating the classification process, researchers can focus their time and expertise on investigating patterns, conducting studies, and developing new insights into various medical conditions.
 
-![medical-mnist-images](https://github.com/MojtabaZarreh/Medical-Image-Classification-Deep-Dive-Challenge/assets/71370569/24dbd780-ca14-437c-a498-7255a8240f7a)
+![medical-mnist-classification-test-results](https://github.com/MojtabaZarreh/Medical-Image-Classification-Deep-Dive-Challenge/assets/71370569/45bdc151-3f10-4972-97bb-0fdadd584fac)
 
